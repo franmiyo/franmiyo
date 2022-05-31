@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Fran
-I'm finishing my programming studies  (cross-platform app design)
+I'm finishing my programming studies  (cross-platform app design) /t
 You can contact me at -> **frangonzalezh1414@gmail.com**
 
 <!--
