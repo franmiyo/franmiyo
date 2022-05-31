@@ -1,10 +1,8 @@
 ### Hi there 👋, I'm Fran
 <p>I'm finishing my programming studies  (cross-platform app design)</p>
 You can contact me at -> frangonzalezh1414@gmail.com<p></p>
-![c# icon](https://user-images.githubusercontent.com/79333745/171211647-a0cc8df5-45a8-44f0-9f7b-98c054cbb86e.jpg)
-![java icon](https://user-images.githubusercontent.com/79333745/171211675-13f1e8af-8424-45af-82e9-d1af9eb4e60b.jpg)
-![mysql](https://user-images.githubusercontent.com/79333745/171211689-ae946e14-0040-41f6-b8f6-5f15fb14987b.jpg)
-![python icon](https://user-images.githubusercontent.com/79333745/171211698-9f6653d6-b92a-4a0f-92b3-b1a0fe51d727.jpg)
+
+
 
 <!--
 **franmiyo/franmiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Skills: 
+[![c# icon](https://user-images.githubusercontent.com/79333745/171213648-bbf56ed7-63aa-4e48-8192-49f2708ea905.jpg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![java icon](https://user-images.githubusercontent.com/79333745/171213675-830411cd-5d0e-489b-8514-e1359b32b278.jpg)](https://www.java.com/es/)
+[![mysql](https://user-images.githubusercontent.com/79333745/171213680-716c0a9d-e9b4-415c-b514-df55dbdfc3aa.jpg)](https://www.mysql.com/)
+[![python icon](https://user-images.githubusercontent.com/79333745/171213682-a85a3138-dadf-4057-a754-3d04f72e3ca5.jpg)](https://www.python.org/)
 
 
 ![programming image](https://user-images.githubusercontent.com/79333745/171206277-f98f8d3c-95b8-463f-aee1-d2950bda8ee3.jpg)
