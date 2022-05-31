@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Main image](image.jpg)
+
+![programming image](https://user-images.githubusercontent.com/79333745/171206277-f98f8d3c-95b8-463f-aee1-d2950bda8ee3.jpg)
+
