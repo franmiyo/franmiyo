@@ -24,6 +24,9 @@ Skills:
 [![mysql](https://user-images.githubusercontent.com/79333745/171213680-716c0a9d-e9b4-415c-b514-df55dbdfc3aa.jpg)](https://www.mysql.com/)
 [![python icon](https://user-images.githubusercontent.com/79333745/171213682-a85a3138-dadf-4057-a754-3d04f72e3ca5.jpg)](https://www.python.org/)
 
+Visit my Linkedin profile here -> [![linkedin](https://user-images.githubusercontent.com/79333745/171216353-31279b54-c653-4fd3-8448-b0849708908a.jpg)](https://www.linkedin.com/in/francisco-miguel-gonz%C3%A1lez-herrera-/)
+
+
 
 ![programming image](https://user-images.githubusercontent.com/79333745/171206277-f98f8d3c-95b8-463f-aee1-d2950bda8ee3.jpg)
 
