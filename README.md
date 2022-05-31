@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Fran
+I'm finishing my programming studies  (cross-platform app design)
+You can contact me at -> **frangonzalezh1414@gmail.com**
 
 <!--
 **franmiyo/franmiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
