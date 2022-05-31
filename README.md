@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Fran
 <p>I'm finishing my programming studies  (cross-platform app design)</p>
-You can contact me at -> **frangonzalezh1414@gmail.com**<p></p>
+You can contact me at -> frangonzalezh1414@gmail.com<p></p>
 ![c# icon](https://user-images.githubusercontent.com/79333745/171211647-a0cc8df5-45a8-44f0-9f7b-98c054cbb86e.jpg)
 ![java icon](https://user-images.githubusercontent.com/79333745/171211675-13f1e8af-8424-45af-82e9-d1af9eb4e60b.jpg)
 ![mysql](https://user-images.githubusercontent.com/79333745/171211689-ae946e14-0040-41f6-b8f6-5f15fb14987b.jpg)
