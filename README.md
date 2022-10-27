@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Fran 
-<p>I'm finishing my programming studies  (cross-platform app design)</p>
+<p>I'm finishing my programming studies at Asseco SL (cross-platform app design)</p>
 _______________________________________________________________________________
 <p></p>
 <p>Contact me at -></p>
  frangonzalezh1414@gmail.com
-<p></p><p></p>
+<p></p><p>I'm currently working on a reporting api web app that makes PDF reports</p>
 
 
 <!--
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 Skills: 
 [![c# icon](https://user-images.githubusercontent.com/79333745/171213648-bbf56ed7-63aa-4e48-8192-49f2708ea905.jpg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![java icon](https://user-images.githubusercontent.com/79333745/171213675-830411cd-5d0e-489b-8514-e1359b32b278.jpg)](https://www.java.com/es/)
