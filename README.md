@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Fran 
-<p>I'm finishing my programming studies at Asseco SL (cross-platform app design)</p>
+<p>I finished my programming studies as software developer at EDIX (cross-platform app design)</p>
 _______________________________________________________________________________
 <p></p>
 <p>Contact me at -></p>
