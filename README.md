@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Fran 
-<p>I finished my programming studies as software developer at EDIX </p>
+<p>I finished my programming studies as software developer at EDIX, I'm a tech lover always looking to improve </p>
 _______________________________________________________________________________
 <p></p>
 <p>Contact me at -></p>
