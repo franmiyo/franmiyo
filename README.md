@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Fran 
-<p>I finished my programming studies as software developer at EDIX (cross-platform app design)</p>
+<p>I finished my programming studies as software developer at EDIX </p>
 _______________________________________________________________________________
 <p></p>
 <p>Contact me at -></p>
  frangonzalezh1414@gmail.com
-<p></p><p>I'm currently working on a reporting api web app that makes PDF reports</p>
+<p></p><p>I'm currently working on a reporting api web app that makes PDF reports, also on a desktop app to monitor wallets in a blockhain </p>
 
 
 <!--
