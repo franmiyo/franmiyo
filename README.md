@@ -2,8 +2,8 @@
 <p>I finished my programming studies as software developer at EDIX, I'm a tech lover always looking to improve </p>
 _______________________________________________________________________________
 <p></p>
-<p>Contact me at -></p>
- frangonzalezh1414@gmail.com
+
+ 
 <p></p><p>I'm currently working on a desktop app to monitor wallets in MultiversX blockhain, more info about this blokchain on the link below :point_down:</p>  
 
  ----------------------------------------------------------------------------------------------------------------------------------------- [MultiversX](https://multiversx.com/)
@@ -18,13 +18,7 @@ _______________________________________________________________________________
 [![python icon](https://user-images.githubusercontent.com/79333745/171213682-a85a3138-dadf-4057-a754-3d04f72e3ca5.jpg)](https://www.python.org/)
 
 Visit my Linkedin profile here -> [![linkedin](https://user-images.githubusercontent.com/79333745/171216353-31279b54-c653-4fd3-8448-b0849708908a.jpg)](https://www.linkedin.com/in/francisco-miguel-gonz%C3%A1lez-herrera-/)
-
-
-
-
-
-
-
+<p>Contact me at -> frangonzalezh1414@gmail.com</p>
 
 
 
