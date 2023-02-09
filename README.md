@@ -4,7 +4,7 @@ _______________________________________________________________________________
 <p></p>
 <p>Contact me at -></p>
  frangonzalezh1414@gmail.com
-<p></p><p>I'm currently working on a reporting api web app that makes PDF reports, also on a desktop app to monitor wallets in a blockhain </p>
+<p></p><p>I'm currently working on a desktop app to monitor wallets in MultiverseX blockhain </p>
 
 
 <!--
