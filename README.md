@@ -4,9 +4,10 @@ _______________________________________________________________________________
 <p></p>
 <p>Contact me at -></p>
  frangonzalezh1414@gmail.com
-<p></p><p>I'm currently working on a desktop app to monitor wallets in MultiverseX blockhain </p>
+<p></p><p>I'm currently working on a desktop app to monitor wallets in MultiversX blockhain, more info about this blokchain on the link below :point_down:</p>  
 
-
+ ----------------------------------------------------------------------------------------------------------------------------------------- [MultiversX](https://multiversx.com/)
+ <p>Here are some lenguajes I've studied:</p>
 <!--
 **franmiyo/franmiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Skills: 
+ 
 [![c# icon](https://user-images.githubusercontent.com/79333745/171213648-bbf56ed7-63aa-4e48-8192-49f2708ea905.jpg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![java icon](https://user-images.githubusercontent.com/79333745/171213675-830411cd-5d0e-489b-8514-e1359b32b278.jpg)](https://www.java.com/es/)
 [![mysql](https://user-images.githubusercontent.com/79333745/171213680-716c0a9d-e9b4-415c-b514-df55dbdfc3aa.jpg)](https://www.mysql.com/)
