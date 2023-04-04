@@ -4,9 +4,9 @@ _______________________________________________________________________________
 <p></p>
 
  
-<p></p><p>I'm currently working on a desktop app to monitor wallets in MultiversX blockhain, more info about this blokchain on the link below :point_down:</p>  
-
- ----------------------------------------------------------------------------------------------------------------------------------------- [MultiversX](https://multiversx.com/)
+<p></p><p>I'm currently working on as a Frontend developer with Vuejs</p>  
+<p>I've worked on a desktop app to monitor wallets in MultiversX blockhain, more info about this blokchain on the link below :point_down:</p>
+ ------------------------------------------------------------------------------------------------------------------------------------ [MultiversX](https://multiversx.com/)
  <p>I'm also finishing an Angular course at Udemy :computer:  :mortar_board:</p>
  <p>Here are some lenguajes I've studied form more recent to older: :closed_book: :pencil2:</p>
  
