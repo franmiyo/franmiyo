@@ -8,7 +8,7 @@ _______________________________________________________________________________
 <p>I've worked on a desktop app to monitor wallets in MultiversX blockhain, more info about this blokchain on the link below :point_down:</p>
  ------------------------------------------------------------------------------------------------------------------------------------ [MultiversX](https://multiversx.com/)
  <p>I'm also finishing an Angular course at Udemy :computer:  :mortar_board:</p>
- <p>Here are some lenguajes I've studied form more recent to older: :closed_book: :pencil2:</p>
+ <p>Here are some lenguajes I've studied from more recent to older: :closed_book: :pencil2:</p>
  
 
 [![angular icon](https://user-images.githubusercontent.com/79333745/217877273-06236da3-43b9-427d-9690-2be0189fe984.jpg)](https://angular.io/)
