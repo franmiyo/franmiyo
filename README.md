@@ -6,7 +6,7 @@ _______________________________________________________________________________
  
 <p></p><p>I'm currently working on as a Frontend developer with Vuejs</p>  
 <p>I've worked on a desktop app to monitor wallets in MultiversX blockhain, more info about this blokchain on the link below :point_down:</p>
- -----------------------------------------------------------------------------------------------------------------------------------        <a href="https://multiversx.com/">MultiversX<a>
+ -----------------------------------------------------------------------------------------------------------------------------------        <a href="https://multiversx.com/" target="_blank">MultiversX<a>
  <p></p>
  <p>I'm also finishing a couple of courses (Vuejs and Angular) at Udemy :computer:  :mortar_board:</p>
  <p>Here are some lenguajes I've studied from more recent to older: :closed_book: :pencil2:</p>
