@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Fran 
-<p>I finished my programming studies as software developer at EDIX, I'm a tech lover always looking to improve </p>
+<p>I finished my programming studies as software developer at EDIX, I'm a tech lover always looking to improve, making company procceses easier and enyoing it ¡</p>
 _______________________________________________________________________________
 <p></p>
 
- 
-<p></p><p>I'm currently working on as a Frontend developer with Vuejs</p>  
+<p></p><p>I'm currently working on as a Frontend developer with Vuejs</p>   
+
 <p>I've worked on a desktop app to monitor wallets in MultiversX blockhain, more info about this blokchain on the link below :point_down:</p>
  -----------------------------------------------------------------------------------------------------------------------------------        <a href="https://multiversx.com/">MultiversX<a>
  <p></p>
