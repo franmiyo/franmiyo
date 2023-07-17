@@ -3,7 +3,7 @@
 _______________________________________________________________________________
 <p></p>
 
-<p></p><p>I'm currently working on as a Frontend developer with Vuejs</p>   
+<p></p><p>I'm currently working on as a Full Stack developer with Vuejs for front-end and Nestjs for back-end</p>   
 
 <p>I've worked on a desktop app to monitor wallets in MultiversX blockhain, more info about this blokchain on the link below :point_down:</p>
 _____________________________________________________________________________________________________________________________        <a href="https://multiversx.com/">MultiversX<a>
