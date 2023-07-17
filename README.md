@@ -11,6 +11,7 @@ ________________________________________________________________________________
  <p>I'm also finishing a couple of courses (Vuejs and Angular) at Udemy :computer:  :mortar_board:</p>
  <p>Here are some lenguajes I've studied from more recent to older: :closed_book: :pencil2:</p>
 
+![nestjs](https://github.com/franmiyo/franmiyo/assets/79333745/164fe83f-15a8-48d6-9281-8215dc7cceba)
 ![vuejs](https://user-images.githubusercontent.com/79333745/229929814-4e28777a-6566-4459-b3dc-ea6fa0cb6ce3.jpg)
 [![angular icon](https://user-images.githubusercontent.com/79333745/217877273-06236da3-43b9-427d-9690-2be0189fe984.jpg)](https://angular.io/)
 [![java icon](https://user-images.githubusercontent.com/79333745/171213675-830411cd-5d0e-489b-8514-e1359b32b278.jpg)](https://www.java.com/es/)
