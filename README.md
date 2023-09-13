@@ -9,6 +9,9 @@ _______________________________________________________________________________
 _____________________________________________________________________________________________________________________________        <a href="https://multiversx.com/">MultiversX<a>
  <p></p>
  <p>I'm also finishing a couple of courses (Vuejs and Angular) at Udemy :computer:  :mortar_board:</p>
+
+<p>You can also take a look to my Pokemon game based on vue 3 with composition API, Typescript and vite in my repositories</p>
+ 
  <p>Here are some lenguajes I've studied from more recent to older: :closed_book: :pencil2:</p>
 
 ![nestjs](https://github.com/franmiyo/franmiyo/assets/79333745/164fe83f-15a8-48d6-9281-8215dc7cceba)
