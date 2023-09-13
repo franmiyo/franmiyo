@@ -10,7 +10,7 @@ ________________________________________________________________________________
  <p></p>
  <p>I'm also finishing a couple of courses (Vuejs and Angular) at Udemy :computer:  :mortar_board:</p>
 
-<p>You can also take a look to my Pokemon game based on vue 3 with composition API, Typescript and vite in my repositories</p>
+<p>You can also take a look at my Pokemon game, based on vue 3 with composition API, Typescript and vite in my repositories. Feel free to contact me for any improve suggestion</p>
  
  <p>Here are some lenguajes I've studied from more recent to older: :closed_book: :pencil2:</p>
 
