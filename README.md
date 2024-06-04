@@ -8,7 +8,7 @@ _______________________________________________________________________________
 <p>I've worked on a desktop app to monitor wallets in MultiversX blockhain, more info about this blokchain on the link below :point_down:</p>
 _____________________________________________________________________________________________________________________________        <a href="https://multiversx.com/">MultiversX<a>
  <p></p>
- <p>I'm also finishing a couple of courses (Vuejs and Angular) at Udemy :computer:  :mortar_board:</p>
+ <p>I also finished a couple of courses (Vuejs and Angular) at Udemy :computer:  :mortar_board:</p>
 
 <p>You can also take a look at my Pokemon game, based on vue 3 with composition API, Typescript and vite in my repositories. Feel free to contact me for any improve suggestion</p>
  
